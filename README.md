@@ -1,4 +1,4 @@
-# Smart Utility Toolkit
+# Smart Utility Toolkit💕
 
 A beginner-friendly Node.js project demonstrating the use of core Node.js concepts and built-in modules through small practical applications. The project focuses on command-line arguments, custom modules, HTTP routing, file management, randomness, and reusable logging.
 
